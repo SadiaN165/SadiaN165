@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadia</h1>
-<h3 align="center">A passionate self-learner Software Engineer with a background in Civil Engineeringfrontend developer from India</h3>
+<h3 align="center">A passionate self-learner Software Engineer with a background in Civil Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
